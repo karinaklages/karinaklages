@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Remote Enthusiast.<br>💡 I'm currently delving deep into HTML, CSS and JavaScript.<br>🎞️ Analogue film is the real deal.<br>🛹 Life is about learning, overcoming fear, and committing.<br>🌞 The sun is good for my mental health. <br>🐺 Living in a pack is the best.<br>🦉 Not a night owl. <br>🥑 Veggies always.<br>🌳 Go into the forest for 30 minutes every day. Unless you don't have time, then go for 60 minutes.</p>
+<p align="left">💻 Remote Enthusiast.<br>💡 I'm currently delving deep into HTML, CSS and JavaScript.<br>🎞️ Analogue film is the real deal.<br>🛹 Life is about learning, overcoming fear, and committing.<br>🌞 The sun is good for my mental health. <br>🐺 Living in a pack is the best.<br>🦉 Not a night owl. <br>🥑 Veggies always.<br>🌳 Go into the forest for 30 minutes every day. Unless you don't have time, then go for 60 minutes.</p><br>
 
 ###
 
@@ -43,3 +43,4 @@
 </div>
 
 ###
+<br>
