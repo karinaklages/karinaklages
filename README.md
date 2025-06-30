@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My journey from designer to developer gives me a unique perspective: I understand both the creative vision and the technical requirements needed to bring artsy web solutions to life.</p><br>
+<p align="left">My journey from designer to developer gives me a unique perspective: I understand both the creative vision and the technical requirements needed to bring artsy and smart web solutions to life.</p><br>
 
 ###
 
