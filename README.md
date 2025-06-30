@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Remote Enthusiast.<br>💡 I'm currently delving deep into HTML, CSS and JavaScript.<br>🎞️ Analogue film is the real deal.<br>🛹 Life is about learning, overcoming fear, and committing.<br>🌞 For me the sun creates positive vibes. <br>🐺 Living in a pack is the best.<br>🦉 Not a night owl. <br>🥑 Veggies always.<br>🌳 Go into the forest for 30 minutes every day. Unless you don't have time, then go for 60 minutes.</p><br>
+<p align="left">💻 Remote Enthusiast.<br>💡 I'm currently delving deep into HTML, CSS and JavaScript.<br>🗝️ My goal is to improve every single day.<br>🎞️ Analogue film is the real deal.<br>🛹 Life is about learning, overcoming fear, and committing.<br>🌞 For me the sun creates positive vibes. <br>🐺 Living in a pack is the best.<br>🦉 Not a night owl. <br>🥑 Veggies always.<br>🌳 Go into the forest for 30 minutes every day. Unless you don't have time, then go for 60 minutes.</p><br>
 
 ###
 
