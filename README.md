@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="left">Design</h4>
+<h4 align="left">Design Tools</h4>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h4 align="left">Frontend</h4>
+<h4 align="left">Frontend Tools</h4>
 
 ###
 
