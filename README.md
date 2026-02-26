@@ -28,6 +28,10 @@
     <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
 
 ###
