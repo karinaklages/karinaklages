@@ -46,15 +46,26 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+    <img src="./assets/html.svg" height="40" alt="html logo"  />
+    <img width="12" />
+    <img src="./assets/css.svg" height="40" alt="css logo"  />
+    <img width="12" />
+    <img src="./assets/illustrator.svg" height="40" alt="adobe illustrator logo"  />
+    <img width="12" />
+    <img src="./assets/javascript.svg" height="40" alt="javascript logo"  />
+    <img width="12" />
+    <img src="./assets/bootstrap.svg" height="40" alt="bootstrap logo"  />
+    <img width="12" />
+    <img src="./assets/vscode.svg" height="40" alt="vs code logo"  />
+    <img width="12" />
+    <img src="./assets/git.svg" height="40" alt="git logo"  />
+    <img width="12" />
+    <img src="./assets/github.svg" height="40" alt="github logo"  />
+    <img width="12" />
+    <img src="./assets/firebase.svg" height="40" alt="firebase logo"  />
+    <img width="12" />
+    <img src="./assets/scrum.svg" height="40" alt="scrum logo"  />
+    <img width="12" />
 </div>
 
 ###
