@@ -64,6 +64,8 @@
     <img width="12" />
     <img src="./assets/firebase.svg" height="40" alt="firebase logo"  />
     <img width="12" />
+    <img src="./assets/api.svg" height="40" alt="api logo"  />
+    <img width="12" />
     <img src="./assets/scrum.svg" height="40" alt="scrum logo"  />
     <img width="12" />
 </div>
