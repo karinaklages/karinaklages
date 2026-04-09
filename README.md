@@ -23,10 +23,10 @@
 ###
 
 <div align="left">
-    <img src="./assets/apple.svg" height="40" alt="apple logo"  />
-    <img width="12" />
-    <img src="./assets/indesign.svg" height="40" alt="adobe indesign logo"  />
-    <img width="12" />
+    <img src="./assets/apple.svg" height="30" alt="apple logo"  />
+    <img width="6" />
+    <img src="./assets/indesign.svg" height="30" alt="adobe indesign logo"  />
+    <img width="6" />
     <img src="./assets/illustrator.svg" height="40" alt="adobe illustrator logo"  />
     <img width="12" />
     <img src="./assets/photoshop.svg" height="40" alt="adobe photoshop logo"  />
