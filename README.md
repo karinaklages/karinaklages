@@ -23,51 +23,47 @@
 ###
 
 <div align="left">
-    <img src="./assets/apple.svg" height="30" alt="apple logo"  />
+    <img src="./assets/apple.svg" height="35" alt="apple logo"  />
     <img width="6" />
-    <img src="./assets/indesign.svg" height="30" alt="adobe indesign logo"  />
+    <img src="./assets/indesign.svg" height="35" alt="adobe indesign logo"  />
     <img width="6" />
-    <img src="./assets/illustrator.svg" height="40" alt="adobe illustrator logo"  />
-    <img width="12" />
-    <img src="./assets/photoshop.svg" height="40" alt="adobe photoshop logo"  />
-    <img width="12" />
-    <img src="./assets/lightroom.svg" height="40" alt="adobe lightroom logo"  />
-    <img width="12" />
-    <img src="./assets/xd.svg" height="40" alt="adobe xd logo"  />
-    <img width="12" />
-    <img src="./assets/figma.svg" height="40" alt="figma logo"  />
-    <img width="12" />
+    <img src="./assets/illustrator.svg" height="35" alt="adobe illustrator logo"  />
+    <img width="6" />
+    <img src="./assets/photoshop.svg" height="35" alt="adobe photoshop logo"  />
+    <img width="6" />
+    <img src="./assets/lightroom.svg" height="35" alt="adobe lightroom logo"  />
+    <img width="6" />
+    <img src="./assets/xd.svg" height="35" alt="adobe xd logo"  />
+    <img width="6" />
+    <img src="./assets/figma.svg" height="35" alt="figma logo"  />
+    <img width="6" />
 </div>
 
 ###
 
 <h4 align="left">Frontend Tools</h4>
 
-###
-
 <div align="left">
-    <img src="./assets/html.svg" height="40" alt="html logo"  />
-    <img width="12" />
-    <img src="./assets/css.svg" height="40" alt="css logo"  />
-    <img width="12" />
-    <img src="./assets/illustrator.svg" height="40" alt="adobe illustrator logo"  />
-    <img width="12" />
-    <img src="./assets/javascript.svg" height="40" alt="javascript logo"  />
-    <img width="12" />
-    <img src="./assets/bootstrap.svg" height="40" alt="bootstrap logo"  />
-    <img width="12" />
-    <img src="./assets/vscode.svg" height="40" alt="vs code logo"  />
-    <img width="12" />
-    <img src="./assets/git.svg" height="40" alt="git logo"  />
-    <img width="12" />
-    <img src="./assets/github.svg" height="40" alt="github logo"  />
-    <img width="12" />
-    <img src="./assets/firebase.svg" height="40" alt="firebase logo"  />
-    <img width="12" />
-    <img src="./assets/api.svg" height="40" alt="api logo"  />
-    <img width="12" />
-    <img src="./assets/scrum.svg" height="40" alt="scrum logo"  />
-    <img width="12" />
+    <img src="./assets/html.svg" height="35" alt="html logo"  />
+    <img width="6" />
+    <img src="./assets/css.svg" height="35" alt="css logo"  />
+    <img width="6" />
+    <img src="./assets/javascript.svg" height="35" alt="javascript logo"  />
+    <img width="6" />
+    <img src="./assets/bootstrap.svg" height="35" alt="bootstrap logo"  />
+    <img width="6" />
+    <img src="./assets/vscode.svg" height="35" alt="vs code logo"  />
+    <img width="6" />
+    <img src="./assets/git.svg" height="35" alt="git logo"  />
+    <img width="6" />
+    <img src="./assets/github.svg" height="35" alt="github logo"  />
+    <img width="6" />
+    <img src="./assets/firebase.svg" height="35" alt="firebase logo"  />
+    <img width="6" />
+    <img src="./assets/api.svg" height="35" alt="api logo"  />
+    <img width="6" />
+    <img src="./assets/scrum.svg" height="35" alt="scrum logo"  />
+    <img width="6" />
 </div>
 
 ###
