@@ -23,15 +23,20 @@
 ###
 
 <div align="left">
-    <img src="./assets/apple.svg" height="40" alt="adobeindesign logo"  />
+    <img src="./assets/apple.svg" height="40" alt="apple logo"  />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+    <img src="./assets/indesign.svg" height="40" alt="adobe indesign logo"  />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+    <img src="./assets/illustrator.svg" height="40" alt="adobe illustrator logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
+    <img src="./assets/photoshop.svg" height="40" alt="adobe photoshop logo"  />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+    <img src="./assets/lightroom.svg" height="40" alt="adobe lightroom logo"  />
+    <img width="12" />
+    <img src="./assets/xd.svg" height="40" alt="adobe xd logo"  />
+    <img width="12" />
+    <img src="./assets/figma.svg" height="40" alt="figma logo"  />
+    <img width="12" />
 </div>
 
 ###
