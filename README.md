@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Remote enthusiast with a diploma in Communication Design.<br>💡 I'm currently delving deep into HTML, CSS and JavaScript.<br>🗝️ My goal is to improve every single day.<br>🎞️ Analogue film is the real deal.<br>🌞 For me the sun creates positive vibes.<br>🦉 Not a night owl.<br>🥑 Veggies always.<br>🌳 Go into the forest for 30 minutes every day. Unless you don't have time, then go for 60 minutes.</p><br>
+<p align="left">💻 Remote enthusiast with a diploma in Communication Design.<br>💡 I'm currently delving deep into JavaScript, TypeScript and Angular.<br>🗝️ My goal is to improve every single day.<br>🎞️ Analogue film is the real deal.<br>🌞 For me the sun creates positive vibes.<br>🦉 Not a night owl.<br>🥑 Veggies always.<br>🌳 Go into the forest for 30 minutes every day. Unless you don't have time, then go for 60 minutes.</p><br>
 
 ###
 
